@@ -1,0 +1,35 @@
+<style type="text/css">
+
+#vertmenu {
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 20px;
+padding-left:0px;
+margin: 0px;
+}
+
+#vertmenu ul {
+list-style: none;
+margin: 0px;
+text-align:left;
+padding:0px;
+}
+#vertmenu ul li {
+margin: 0px;
+
+}
+#vertmenu ul li a {
+font-size: 15px;
+display: block;
+border-bottom: 1px dashed #666666;
+padding:5px 0px 5px 0px;
+text-decoration: none;
+color: #666666;
+width:244px;
+}
+
+#vertmenu ul li a:hover, #vertmenu ul li a:focus {
+color:#A9D524;
+background-color:none;
+}
+
+</style>
